@@ -7,17 +7,17 @@ An end-to-end data analytics project using **Python, Pandas, MySQL, and Power BI
 ## 📊 Dashboard Preview
 
 ### 1. Sales Overview
-![Sales Overview Dashboard](Screenshots/overview.png)
+![Sales Overview Dashboard](Screenshots/overview.png.png)
 
 Provides an overview of sales, profit, profit margin, transactions, and monthly sales and profit trends.
 
 ### 2. Profitability Deep Dive
-![Profitability Deep Dive Dashboard](Screenshots/profitability_deep_dive.png)
+![Profitability Deep Dive Dashboard](Screenshots/profitability_deep_dive.png.png)
 
 Investigates subcategory profitability, discount impact, regional performance, and loss-making products, with a dedicated investigation of East-region Tables products.
 
 ### 3. Business Insights & Recommendations
-![Business Insights Dashboard](Screenshots/business_insights.png)
+![Business Insights Dashboard](Screenshots/business_insights.png.png)
 
 Summarizes the major business problems identified during the analysis and presents recommendations for improving profitability.
 
